@@ -1,7 +1,7 @@
 interface:
   display_name: "爆款自媒体封面"
-  short_description: "生成高冲击、手机端清晰可读的多比例人物自媒体封面成品"
+  short_description: "生成真人美漫爆裂、强制透视和碰撞排版的多比例封面"
   brand_color: "#0A45FF"
-  default_prompt: "使用 $produce-social-media-cover，根据我的主题和人物素材直接制作可发布的三比例自媒体封面。"
+  default_prompt: "使用 $produce-social-media-cover，以我的真人身份参考制作美漫爆裂、强制透视前冲、巨型符号压迫和文字块碰撞排版的可发布封面。"
 policy:
   allow_implicit_invocation: true
