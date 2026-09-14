@@ -7,7 +7,7 @@
 | 同片视觉 | 希望封面沿用视频的色盘、材质与图形语言 | [同片封面](references/video-coherent-cover.md) |
 | 美漫高冲击 | 希望强化近景透视、巨型主题道具与漫画文字张力 | [美漫与公共质量要求](references/approved-cover-system.md) |
 
-两种方向在同一个 Skill 中，不需要另装一个“爆款封面 Skill”。吸引力需要实际看图判断，不承诺点击率或爆款。
+这两种方向在同一个 Skill 中，不需要另装一个“爆款封面 Skill”。第三种“大标题真人”由独立的 [produce-big-title-cover](https://github.com/xupengli406-del/produce-big-title-cover) 提供：大字优先、自然人像、直观道具和足够大的道具文案。MG 视频现在可以在这三种风格中选择；三种风格与三种输出比例是不同维度。吸引力需要实际看图判断，不承诺点击率或爆款。
 
 ## 怎么开始
 
