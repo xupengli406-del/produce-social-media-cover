@@ -31,7 +31,7 @@
 
 ## 配套与检查
 
-完整视频使用 [主 MG Skill](https://github.com/xupengli406-del/produce-voiceover-mg-social-video)，画面节奏可配合 [节奏增强 Skill](https://github.com/xupengli406-del/enhance-voiceover-video-rhythm)。只做封面不需要运行视频渲染器。
+完整视频使用 [主 MG Skill](https://github.com/xupengli406-del/produce-voiceover-mg-social-video)，画面节奏使用完整视频流程内置的检查方法。只做封面不需要运行视频渲染器。
 
 入口与顺序见 [SKILL.md](SKILL.md)，文字排版要求见 [typography-and-layout.md](references/typography-and-layout.md)。检查脚本使用 Python：
 
@@ -46,3 +46,11 @@ python scripts/validate_cover_set.py <输出目录> --topic "主题"
 原创说明与脚本使用 [MIT License](LICENSE)。输入素材、字体及外部服务仍按各自授权使用。
 
 觉得有用可以 Star 收藏；问题和改进想法提 Issue；已改好的规范或脚本可提交 PR。描述实际场景和验证结果，使用合成示例或有权公开的素材，不提交私人照片与凭证。
+
+## 既有完成图示例
+
+以下两张是已有的封面成品，本轮沿用，分别为4:3和3:4独立构图；未包含人物参考原照，也不是本轮新生成。
+
+![既有4:3封面](examples/finished-covers/existing-cover-4x3.png)
+
+![既有3:4封面](examples/finished-covers/existing-cover-3x4.png)
